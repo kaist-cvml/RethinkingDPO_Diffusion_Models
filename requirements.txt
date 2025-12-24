@@ -1,0 +1,9 @@
+torch==2.5.1
+torchvision==0.20.1
+accelerate==0.28.0
+huggingface-hub==0.25.0
+xformers==0.0.29
+datasets==2.18.0
+transformers==4.30.2
+diffusers==0.28.0
+timm==0.6.13
