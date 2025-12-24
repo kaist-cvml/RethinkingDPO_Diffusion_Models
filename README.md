@@ -1,6 +1,6 @@
 # Intro
 
-This is the official implementation of the paper [Rethinking Direct Preference Optimization in Diffusion Models](https://arxiv.org/abs/2505.18736). This repository is adapted from the [Diffusion-DPO official implementation](https://github.com/SalesforceAIResearch/DiffusionDPO/tree/main)
+This is the official implementation of the paper [Rethinking Direct Preference Optimization in Diffusion Models](https://arxiv.org/abs/2505.18736). This repository is adapted from the [Diffusion-DPO official implementation](https://github.com/SalesforceAIResearch/DiffusionDPO/tree/main).
 
 <img width="800" alt="image" src="main.jpg">
 
