@@ -34,7 +34,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 accelerate launch --main_process_port=21205 --mixed
   --reference_update_method='hardstep'  \
   --ref_update_steps $REF_UPDATE_STEP \
   --monitor_threshold $MONITOR_THRESHOLD \
-  --dense_weight 0.9 \
+  --timestep_gamma 0.9 \
   --reward_scale_scheduling \
   --alpha 1
   
